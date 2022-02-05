@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "id18408241_ourleaccy002",
+    "password": "H(wIOt^i0ZGO)7se",
+    "database": "id18408241_ourleaccy",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect" : ""
+  }
+}
+
+
+ 
