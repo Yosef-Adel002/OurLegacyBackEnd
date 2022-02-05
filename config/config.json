@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "id18408241_ourleaccy002",
-    "password": "H(wIOt^i0ZGO)7se",
-    "database": "id18408241_ourleaccy",
-    "host": "localhost",
+    "username": "root",
+    "password": "yO558231",
+    "database": "fullstackapp",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
@@ -14,11 +14,11 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "",
-    "password": "",
-    "database": "",
-    "host": "",
-    "dialect" : ""
+    "username": "b1a6a5bc9cbf7f",
+    "password": "eb54bb18",
+    "database": "heroku_11e9decd05cb7ac",
+    "host": "us-cdbr-east-05.cleardb.net",
+    "dialect": "mysql"
   }
 }
 
